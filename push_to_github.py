@@ -2,7 +2,8 @@ import os
 import subprocess
 
 # ====== CONFIGURE THIS ======
-repo_url = "https://github.com/ajmalnavascherada-arch/Experimental-Thermofluid-Data-Analysis-Transient-Heat-Transfer-Study.git"
+repo_url = ("notepad push_to_github.py"
+            "https://github.com/ajmalnavascherada-arch/Experimental-Thermofluid-Data-Analysis-Transient-Heat-Transfer-Study.git")
 commit_message = "Initial commit: thermofluid data analysis project"
 # ============================
 
